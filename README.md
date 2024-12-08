@@ -54,13 +54,13 @@ MediBot is a medical chatbot designed to provide quick responses to common healt
 
 Follow these steps to set up and run the MediBot project on your local machine:
 
-###1. Clone the Repository  
+### 1. Clone the Repository  
    ```bash
    git <repository-url>
    cd <repository-directory>
    ```
 
-###2. Create a Virtual Environment (Optional)
+### 2. Create a Virtual Environment (Optional)
 ```bash
 python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
@@ -104,11 +104,6 @@ Contributions to this project are welcome! If you have suggestions for improveme
 
 ---
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
 ## Acknowledgments
 - **NLTK** for natural language processing.
 - **Scikit-learn** for machine learning algorithms.
@@ -116,4 +111,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Replace `<repository-url>` and `<repository-directory>` with the actual URL of your repository and the name of the directory where the project is located. Adjust any sections as necessary to better fit your project's specifics.
+Replace `<repository-url>` and `<repository-directory>` with the actual URL of repository and the name of the directory where the project is located. 
