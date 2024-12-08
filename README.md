@@ -9,7 +9,7 @@ MediBot is a medical chatbot designed to provide quick responses to common healt
 ## Features
 
 - **Intent-based Response Generation:**  
-  MediBot interprets user queries using NLP techniques and generates appropriate responses based on predefined intents.
+  MediBot interprets user queries using NLP techniques and give responses based on predefined intents.
 
 - **Conversation Logging:**  
   User queries and chatbot responses are logged with timestamps for review and analysis.
@@ -113,5 +113,6 @@ Contributions to this project are welcome! If you have suggestions for improveme
 
 Replace `<repository-url>` and `<repository-directory>` with the actual URL of repository and the name of the directory where the project is located. 
 
+---
 
 ### HAPPY CODING AND LEARNING 😊
