@@ -58,6 +58,7 @@ Follow these steps to set up and run the MediBot project on your local machine:
    ```bash
    git <repository-url>
    cd <repository-directory>
+   ```
 
 ###2. Create a Virtual Environment (Optional)
 ```bash
