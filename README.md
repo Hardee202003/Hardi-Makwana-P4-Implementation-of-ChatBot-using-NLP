@@ -5,7 +5,6 @@
 MediBot is a medical chatbot designed to provide quick responses to common health-related queries. Built using **Python** and **Streamlit**, MediBot utilizes Natural Language Processing (NLP) techniques and Logistic Regression for intent-based response generation. It offers a user-friendly interface and logs conversations for review.
 
 ---
-
 ## Features
 
 - **Intent-based Response Generation:**  
